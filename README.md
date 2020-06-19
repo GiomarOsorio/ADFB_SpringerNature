@@ -1,5 +1,8 @@
 # Automatic Download Free Books (ADFB) from Springer Nature
 
+**IMPORTANT:**
+The Springer Nature platform has recently integrated a reCAPTCHA security system, so this script has stopped working.
+
 It is a script that allows the user to automatically download the free books offered by Springer Nature at the following link: [Free access to a range of essential textbooks from all disciplines](https://www.springernature.com/gp/librarians/news-events/all-news-articles/industry-news-initiatives/free-access-to-textbooks-for-institutions-affected-by-coronaviru/17855960).
 
 ## How to use
